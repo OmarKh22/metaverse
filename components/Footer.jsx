@@ -43,7 +43,7 @@ const Footer = () => (
             Copyright © 2023 - Metaversus O.KH. All rights reserved.
           </p>
 
-          <div className="flex gap-4">
+          <div className="flex gap-4 ">
             {socials.map((social) => (
               <img
                 key={social.name}
